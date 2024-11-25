@@ -1,0 +1,198 @@
+[
+  {
+    "OUTPUT": "Hmmm. Much anger in him, like his father.",
+    "INPUT": "Hmmm. There is much anger in him like his father."
+  },
+  {
+    "OUTPUT": "Hah. He is not ready.",
+    "INPUT": "Hah. He is not ready."
+  },
+  {
+    "OUTPUT": "Ready, are you? What know you of ready? For eight hundred years  have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind.  This one a long time have I watched. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things.  You are reckless!",
+    "INPUT": "You are ready? What do you know of being ready? I have trained Jedi for eight hundred years. My own counsel will decide who is to be trained! A jedi must have the deepest commitment and the most serious mind. I have watched this one for a long time. His mind does not seem to be where he was. Hmm? A Jedi must not crave Adventure and Excitement. You are reckless"
+  },
+  {
+    "OUTPUT": "He is too old. Yes, too old to begin the training.",
+    "INPUT": "He is too old to begin training"
+  },
+  {
+    "OUTPUT": "Will he finished what he begins?",
+    "INPUT": "Will he finish what he begins"
+  },
+  {
+    "OUTPUT": "Oh, you will be. You will be.",
+    "INPUT": "Yes, you will be!"
+  },
+  {
+    "OUTPUT": "Run! Yes. A Jedi's strength flows from the Force. But beware of  the dark side. Anger...fear...aggression. The dark side of the Force are they. Easily they flow, quick to join you in a fight. If once you start down the dark path, forever will it dominate your destiny, consume you it will, as it did Obi-Wan's apprentice.",
+    "INPUT": "Run!, A jedi's strength flows from the force. But beware of the dark side as anger, fear and  aggression are the dark side of the force. They can easily flow and will quickly join you in a fight. Once you start down the dark path, it will dominate your destiny and consume you as it once did Obi-Wan's apprentice"
+  },
+  {
+    "OUTPUT": "No...no...no. Quicker, easier, more seductive.",
+    "INPUT": "No...no...no. Quicker, easier, more seductive."
+  },
+  {
+    "OUTPUT": "You will know. When you are calm, at peace. Passive. A Jedi uses  the Force for knowledge and defense, never for attack.",
+    "INPUT": "You will know when you are calm and at peace. Passive. A jedi used the Force for gaining knowledge and defense but never for attacking."
+  },
+  {
+    "OUTPUT": "No, no, there is no why. Nothing more will I  teach you today. Clear your mind of questions. Mmm. Mmmmmm.",
+    "INPUT": "No, there is no why, I will teach you no more today. You have to clear your mind from questions."
+  },
+  {
+    "OUTPUT": "That place...is strong with the dark side of the Force. A domain  of evil it is. In you must go.",
+    "INPUT": "That place is strong with the dark force and it is a domain of evil. You must go in"
+  },
+  {
+    "OUTPUT": "Only what you take with you.",
+    "INPUT": "Only what you take with you."
+  },
+  {
+    "OUTPUT": "Your weapons...you will not need them.",
+    "INPUT": "You will not need your weapons."
+  },
+  {
+    "OUTPUT": "Use the Force. Yes...",
+    "INPUT": "Yes... Use the force."
+  },
+  {
+    "OUTPUT": "Now...the stone. Feel it.",
+    "INPUT": "Now.. feel the stone."
+  },
+  {
+    "OUTPUT": "Concentrate!",
+    "INPUT": "Concentrate!"
+  },
+  {
+    "OUTPUT": "So certain are you. Always with you it cannot be done. Hear you  nothing that I say?",
+    "INPUT": "You are so certain. It cannot be done always with you. Can you hear anything that i say?"
+  },
+  {
+    "OUTPUT": "No! No different! Only different in your mind. You must unlearn  what you have learned.",
+    "INPUT": "No!, There is nothing different! It is different only in your mind. You must unlearn what you have learned."
+  },
+  {
+    "OUTPUT": "No! Try not. Do. Or do not. There is no try.",
+    "INPUT": "Do not try, just do. There is nothing to try."
+  },
+  {
+    "OUTPUT": "Size matters not. Look at me. Judge me by my size, do you? Hm?  Mmmm.",
+    "INPUT": "Size does not matter. Are you jusdging me by my size?"
+  },
+  {
+    "OUTPUT": "And well you should not. For my ally in the Force. And a  powerful ally it is. Life creates it, makes it grow. It's energy surrounds us and binds us. Luminous beings are we......not this crude matter.  You must feel the Force around you.  Here, between you...me...the tree...the rock...everywhere! Yes, even between this land and that ship!",
+    "INPUT": "And, in fact, you shouldn't. For the sake of my ally in the Force, which is a truly powerful and formidable force. Life gives it energy, nurtures it, and it grows stronger. The energy that surrounds us all holds us together. We are indeed luminous beings, not mere mortal flesh and blood. You should be able to feel this energy connecting everything around you, from this tree to the rock beneath your feet...even between these two locations."
+  },
+  {
+    "OUTPUT": "That is why you fail.",
+    "INPUT": "That is why you fail."
+  },
+  {
+    "OUTPUT": "Concentrate...feel the Force flow. Yes. Good. Calm, yes. Through  the Force, things you will see. Other places. The future...the past. Old friends long gone.",
+    "INPUT": "Focus your attention...tap into the energy that surrounds us all. Yes, I can sense it. Good. Relax, take a deep breath. Through this connection to the Force, you'll begin to see things. Other locations, distant places. You may catch glimpses of events yet to come, or even fleeting memories from the past. Even long-lost loved ones who have moved on."
+  },
+  {
+    "OUTPUT": "Hmm. Control, control. You must learn control.",
+    "INPUT": "Hmm. You must learn how to control."
+  },
+  {
+    "OUTPUT": "Mmm. Friends you have there.",
+    "INPUT": "Mmm. You have your friends there."
+  },
+  {
+    "OUTPUT": "It is the future you see.",
+    "INPUT": "You see the future"
+  },
+  {
+    "OUTPUT": "Difficult to see. Always in motion is the future.",
+    "INPUT": "The future is Difficult to see as it is always in motion."
+  },
+  {
+    "OUTPUT": "Decide you must how to serve them best. If you leave now, help  them you could. But you would destroy all for which they have fought and suffered.",
+    "INPUT": "You've decided that your presence is necessary to help them. However, if you stay with them, you'll be putting their entire cause at risk. Leaving now would allow you to provide the assistance they need without compromising everything they've worked for."
+  },
+  {
+    "OUTPUT": "Luke! You must complete the training.",
+    "INPUT": "Luke! You must complete the training."
+  },
+  {
+    "OUTPUT": "You must not go!",
+    "INPUT": "You must not go!"
+  },
+  {
+    "OUTPUT": "Yes, yes. To Obi-Wan you listen. The cave. Remember your failure  at the cave!",
+    "INPUT": "Yes, you must listen to Obi-Wan. Remember your failure at the cave!"
+  },
+  {
+    "OUTPUT": "Stopped they must be. On this depends. Only a fully trained Jedi  Knight with the Force as his ally will conquer Vader and his Emperor. If you end your training now, if you choose the quick and easy path, as Vader did, you will become an agent of evil.",
+    "INPUT": "The decision is clear: they must stop now. The fate of everything hangs in the balance. Only a fully trained Jedi Knight, with the Force as their guide and ally, has any hope of defeating Vader and the Emperor. If you abandon your training and take the easy way out, as Vader did, you'll be choosing a path that will lead you down a road of darkness and evil."
+  },
+  {
+    "OUTPUT": "If you honor what they fight for...yes!",
+    "INPUT": "If you honor what they fight for...yes!"
+  },
+  {
+    "OUTPUT": "Strong is Vader. Mind what you have learned. Save you it can.",
+    "INPUT": "Vader is strong but Remember what you have learned as it can save you."
+  },
+  {
+    "OUTPUT": "Told you, I did. Reckless is he. Now matters are worse.",
+    "INPUT": "I told you he is reckless. The matters have become worse now."
+  },
+  {
+    "OUTPUT": "No. There is another.",
+    "INPUT": "No. There is another."
+  },
+  {
+    "OUTPUT": "Hmm. That face you make. Look I so old to young eyes?",
+    "INPUT": "Hmm. You have that face. Do I look olld to your eyes"
+  },
+  {
+    "OUTPUT": "I do, yes, I do!  Sick have I become. Old and weak.  When nine hundred years old you reach, look as good you will not. Hmm?",
+    "INPUT": "Yes, I am sick. When you are 900 years old you do not look that good, eh?"
+  },
+  {
+    "OUTPUT": "Soon will I rest. Yes, forever sleep. Earned it, I have.",
+    "INPUT": "Soon I will slee and rest forever. I have earned it"
+  },
+  {
+    "OUTPUT": "Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things ... the way of the Force.",
+    "INPUT": "I am strong with the force� But I am not that strong! Twilight is upon me and soon night must fall. That is the way of things ... the way of the Force."
+  },
+  {
+    "OUTPUT": "No more training do you require. Already know you that which you need.",
+    "INPUT": "You don�t need anymore training� You already no which to need"
+  },
+  {
+    "OUTPUT": "Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.",
+    "INPUT": "Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Thenand only then, you will be a Jedi. And you will confron him"
+  },
+  {
+    "OUTPUT": "Mmm... rest I need. Yes... rest.",
+    "INPUT": "Mmm� I need rest. Yes� rest"
+  },
+  {
+    "OUTPUT": "Your father he is.",
+    "INPUT": "He is your Father."
+  },
+  {
+    "OUTPUT": "Told you, did he?",
+    "INPUT": "He told you?"
+  },
+  {
+    "OUTPUT": "Unexpected this is, and unfortunate..",
+    "INPUT": "This is unexpected and unfortunate"
+  },
+  {
+    "OUTPUT": "No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.",
+    "INPUT": "No� It was unfortunate that you rushed to face him. Your training was incomplete. You were not ready for the burden."
+  },
+  {
+    "OUTPUT": "Remember, a Jedi's strength flows from the Force.  But beware.  Anger, fear, aggression. The dark side are they.  Once you start down the dark path, forever will it dominate your destiny.",
+    "INPUT": "Remember, a Jedi's strength flows from the Force.  But beware. The dark side are anger, fear, aggression.  Once you start down the dark path it will foreverdominate your destiny."
+  },
+  {
+    "OUTPUT": "Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I , the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke...  There is... another...Sky...Sky...walker.",
+    "INPUT": "Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or you will suffer your father's fate. Luke, when I am gone, you will be the last of the Jedi . Luke, the Force runs strong in your family. Pass on what you have learned, Luke...  There is... another...Sky...Sky...walker."
+  }
+]
